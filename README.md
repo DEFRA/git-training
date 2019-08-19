@@ -13,8 +13,11 @@ The Prototype Kit provides a simple way to make interactive prototypes that look
  - Part of the Defra GitHub org
 
 
+## Demo site
 
-
+ - https://git-training-defra.herokuapp.com/
+ - username: git 
+ - pasword: training
 
 
 ## License
