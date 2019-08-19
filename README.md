@@ -12,6 +12,12 @@ The Prototype Kit provides a simple way to make interactive prototypes that look
  - Two factor authentication 
  - Part of the Defra GitHub org
 
+## Prerequisites trainer
+
+ - Create a new branch for the new session
+ - Add new branch to Heroku build 
+
+
 
 ## Demo site
 
