@@ -16,3 +16,28 @@ $govuk-assets-path: '/govuk/assets/';
 @import "components/cookie-banner";
 
 // Add extra styles here, or re-organise the Sass files in whichever way makes most sense to you
+
+
+.red {
+  color: #E3000E;
+}
+
+.yellow {
+  color: #F18604;
+}
+
+.grey {
+  color: black;
+}
+
+.govuk-inset-text.high {
+  border-left-color: #E3000E;
+}
+
+.govuk-inset-text.medium {
+  border-left-color: #F18604;
+}
+
+.govuk-inset-text.low {
+  border-left-color: black;
+}
