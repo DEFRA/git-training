@@ -14,8 +14,7 @@ The Prototype Kit provides a simple way to make interactive prototypes that look
 
 ## Prerequisites trainer
 
- - Create a new branch for the new session
- - Add new branch to Heroku build 
+ - Roll back to base tag for a new session
 
 ## Demo site
 
